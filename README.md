@@ -14,7 +14,7 @@
     <a href="https://github.com/AbbasNabhani/TreeSim/tree/master/docs" style="text-decoration: none">
     Documentation</a>
     <span> | </span>
-    <a href="https://api.github.com/AbbasNabhani/TreeSim/releases/tag/v0.1.0" style="text-decoration: none">
+    <a href="https://github.com/AbbasNabhani/TreeSim/releases/tag/v0.1.0" style="text-decoration: none">
     Download</a>
   </h4>
 </div>
